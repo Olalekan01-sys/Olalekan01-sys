@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olalekan01-sys
 - 👀 I’m interested in be coming a Devops engineer
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on all team members
+- 💞️ I’m looking to collaborate on all project task
 - 📫 How to reach me on my email
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love life and fun doing this
